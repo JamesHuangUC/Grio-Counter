@@ -1,6 +1,6 @@
 # Grio OA
 
-This is a coding challenge for Grio.
+This is a coding challenge for Grio. Fronend uses React, backend uses Express.
 
 ### Demo
 [https://grio-oa.herokuapp.com](https://grio-oa.herokuapp.com)
