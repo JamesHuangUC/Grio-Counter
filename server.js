@@ -51,7 +51,7 @@ app.post("/login", (req, res) => {
         if (username == users[i].username && password == users[i].password) {
             let token = jwt.sign(
                 { id: users[i].id, username: users[i].username },
-                "keyboard cat 4 ever",
+                "grio oa",
                 { expiresIn: 129600 }
             );
             res.json({
