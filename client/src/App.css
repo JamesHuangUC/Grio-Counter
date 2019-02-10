@@ -1,0 +1,15 @@
+.counter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.counter-item {
+    display: flex;
+}
+.header-container {
+    text-align: center;
+}
+.header-text {
+    display: inline;
+}
